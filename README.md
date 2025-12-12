@@ -57,7 +57,7 @@ sudo python packet_sniffer.py
 
 The program will continuously capture and display packet information.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 These tools are for **educational and ethical testing purposes only**.
 Do **NOT** use them to scan or sniff networks without authorization.
